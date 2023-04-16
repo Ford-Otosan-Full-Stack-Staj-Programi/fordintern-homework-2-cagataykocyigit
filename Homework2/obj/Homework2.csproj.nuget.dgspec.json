@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2\\Homework2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Base\\Homework2.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Base\\Homework2.Base.csproj",
+        "projectName": "Homework2.Base",
+        "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Base\\Homework2.Base.csproj",
+        "packagesPath": "C:\\Users\\CAGATAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CAGATAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.PowerBI.Api": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Data\\Homework2.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Data\\Homework2.Data.csproj",
+        "projectName": "Homework2.Data",
+        "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Data\\Homework2.Data.csproj",
+        "packagesPath": "C:\\Users\\CAGATAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CAGATAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Base\\Homework2.Base.csproj": {
+                "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Base\\Homework2.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Dto\\Homework2.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Dto\\Homework2.Dto.csproj",
+        "projectName": "Homework2.Dto",
+        "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Dto\\Homework2.Dto.csproj",
+        "packagesPath": "C:\\Users\\CAGATAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CAGATAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Base\\Homework2.Base.csproj": {
+                "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Base\\Homework2.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Service\\Homework2.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Service\\Homework2.Service.csproj",
+        "projectName": "Homework2.Service",
+        "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Service\\Homework2.Service.csproj",
+        "packagesPath": "C:\\Users\\CAGATAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CAGATAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Data\\Homework2.Data.csproj": {
+                "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Data\\Homework2.Data.csproj"
+              },
+              "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Dto\\Homework2.Dto.csproj": {
+                "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Dto\\Homework2.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2\\Homework2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2\\Homework2.csproj",
+        "projectName": "Homework2",
+        "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2\\Homework2.csproj",
+        "packagesPath": "C:\\Users\\CAGATAY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CAGATAY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Data\\Homework2.Data.csproj": {
+                "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Data\\Homework2.Data.csproj"
+              },
+              "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Service\\Homework2.Service.csproj": {
+                "projectPath": "C:\\Users\\CAGATAY\\Source\\Repos\\fordintern-homework-2-cagataykocyigit\\Homework2.Service\\Homework2.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

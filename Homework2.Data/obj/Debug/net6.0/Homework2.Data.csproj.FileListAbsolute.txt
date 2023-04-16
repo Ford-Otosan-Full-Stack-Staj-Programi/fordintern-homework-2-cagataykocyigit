@@ -1,0 +1,15 @@
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\bin\Debug\net6.0\Homework2.Data.deps.json
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\bin\Debug\net6.0\Homework2.Data.dll
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\bin\Debug\net6.0\Homework2.Data.pdb
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\bin\Debug\net6.0\Homework2.Base.dll
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\bin\Debug\net6.0\Homework2.Base.pdb
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\Homework2.Data.csproj.AssemblyReference.cache
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\Homework2.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\Homework2.Data.AssemblyInfoInputs.cache
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\Homework2.Data.AssemblyInfo.cs
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\Homework2.Data.csproj.CoreCompileInputs.cache
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\Homework2.Data.csproj.CopyComplete
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\Homework2.Data.dll
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\refint\Homework2.Data.dll
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\Homework2.Data.pdb
+C:\Users\CAGATAY\Source\Repos\fordintern-homework-2-cagataykocyigit\Homework2.Data\obj\Debug\net6.0\ref\Homework2.Data.dll
