@@ -12,3 +12,6 @@ calismali ve yetkisiz api cagrimi olmalalı maddesi için controllerda [authoriz
 
 Jwt İşlemleri için öncelikle jwt confige parametreleri ekledim. Bu sınıfın karşılığı olarak application settingse config eklendi ki her yerden çalışabilmesi sağlansın (dependency injection)
 Daha sonrasında startup içine static olarak eklemesini yaptım. Tokencontroller üzerinde login işlemi yapıldı. TokenManagementService içinde ise rollere bağlı olarak claimler belirlendi ve GenerateAccessToken ve Generatetoken şlemleri yapıldı.
+
+
+Person modeli uzerindeki AccountId alani request den yani client dan alinmamali maddesi için odel üzerine gidip BindNever kullanarak request tarafından accountid engellemesi yapıldı.
