@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3bErTxjD)
 Person contoller uzerindeki tum actionlarda sessiondaki account id degerine gore
 filtreleme yapilmali maddesi için Homework2 altında BlockAttribute altında AccountIdFilter sınıfını oluşturdum. Filtreleme işlemini accountId üzerinden yapabilmesi için OnActionExecuting altında accountId keyine route data yı eklemiş oldum .
 
